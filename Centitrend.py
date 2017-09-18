@@ -10,10 +10,10 @@ import time
 class TwitterClient(object):
     def __init__(self):
         # keys and tokens from the Twitter Dev Console
-        consumer_key = 'CTeC4gYQK14vcu6CUqNXc5RPU'
-        consumer_secret = 'TeyB7mmao7a9d34YhDb3prNhOBBGhEQMF3JJh9oKn7q3r7iLpd'
-        access_token = '259385973-IAM2wNXttFATGCyQSBCEzcUYwkfvlRP32j7SrUsL'
-        access_token_secret = '78qpVDqOFDk5sdM76kj1oUV9rVRJKPtf7elB9POHGvnis'
+        consumer_key = 'XXX'
+        consumer_secret = 'XXX'
+        access_token = 'XXX'
+        access_token_secret = 'XXX'
 
         # twitter authentication
         try:
